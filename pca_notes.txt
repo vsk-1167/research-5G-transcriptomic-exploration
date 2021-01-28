@@ -1,0 +1,20 @@
+# Some notes on adding PCA principal components back to the original dataframe.
+
+df = whatever data you loaded
+
+# do pca stuff
+X = StandardScaler().fit_transform(df.select_dtypes(include=['float']))
+pca_projection = pca.fit_transform(X)
+
+# combine pc vals back with original df
+
+# first, use first three principal components as a dataframe
+principalDf = pd.DataFrame(data = pca_projection[:,:3], columns = ['pc1', 'pc2','pc3'])
+
+# then, add pcs to original df
+df['pc1'] = pca_projection[:,0] # first PC
+df['pc2'] = pca_projection[:,1] # second PC
+df['pc3'] = pca_projection[:,2] # third PC
+# ^ you can add as many as you want!
+
+# now you can plot stuff using these new columns of `df` as x and y coords!
