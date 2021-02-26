@@ -1,2 +1,2 @@
 # 5G-rnaseq-sandbox
-Starter repo for getting familiar with M. buryatense 5GB1 RNA-seq data 
+Repository for analyzing the M. buryatense 5GB1 RNA-seq data 
