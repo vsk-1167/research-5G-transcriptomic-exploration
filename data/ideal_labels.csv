@@ -1,0 +1,10 @@
+,method,labels,param1,param2,param3
+0,agglomerative,[0 0 0 ... 0 0 0],single,19.0,
+1,agglomerative,[7 7 7 ... 8 8 8],complete,19.0,
+2,agglomerative,[0 0 0 ... 0 0 0],single,12.0,
+3,agglomerative,[2 2 2 ... 2 2 2],average,21.0,
+4,kmeans,[12  4 17 ...  0  0  0],19,,
+5,kmeans,[18 18 17 ...  8  8  8],20,,
+6,birch,[0 6 0 ... 2 2 2],0.48,54.0,16.0
+7,kmedoids,[25  9 20 ... 34 34 34],36,,
+8,dbscan,[0 0 0 ... 0 0 0],2.5,4.0,
