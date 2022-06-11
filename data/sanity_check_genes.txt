@@ -1,0 +1,108 @@
+group	locus_id	gene	product	notes	
+nif	EQU24_RS17345	nifV	homocitrate synthase		
+nif	EQU24_RS17340	cysE(nifP?)	serine O-acetyltransferase		
+nif	EQU24_RS17335		hypothetical protein		
+nif	EQU24_RS17330		(2Fe-2S) ferredoxin domain-containing protein		
+nif	EQU24_RS17325		hypothetical protein		
+nif	EQU24_RS17315		hypothetical protein		
+nif	EQU24_RS17310		hypothetical protein		
+nif	EQU24_RS17305		4Fe-4S dicluster domain-containing protein		
+nif	EQU24_RS17300		hypothetical protein		
+nif	EQU24_RS17295		thiosulfate sulfurtransferase GlpE		
+nif	EQU24_RS17290	nifY	dinitrogenase iron-molybdenum cofactor biosynthesis protein		
+nif	EQU24_RS17285	draG	ADP-ribosyl-[dinitrogen reductase] hydrolase		
+nif	EQU24_RS17280	draT	NAD(+)--dinitrogen-reductase ADP-D-ribosyltransferase		
+nif	EQU24_RS17275	nifA	nif-specific transcriptional activator NifA		
+nif	EQU24_RS17270	nifL	nitrogen fixation negative regulator NifL		
+nif	EQU24_RS17265	rsxA	electron transport complex subunit RsxA		
+nif	EQU24_RS17260	rsxB	RnfABCDGE type electron transport complex subunit B		
+nif	EQU24_RS17255	rsxC	electron transport complex subunit RsxC		
+nif	EQU24_RS17250	rsxD	RnfABCDGE type electron transport complex subunit D		
+nif	EQU24_RS17245	rsxG	electron transport complex subunit RsxG		
+nif	EQU24_RS17240	rsxE	electron transport complex subunit E		
+nif	EQU24_RS17235	rnfH	RnfH family protein		
+nif	EQU24_RS17230	nifB	nitrogenase cofactor biosynthesis protein NifB		
+nif	EQU24_RS17225		ferredoxin		
+nif	EQU24_RS17220		nitrogenase-associated protein		
+nif	EQU24_RS17215	fprA	FprA family A-type flavoprotein		
+nif	EQU24_RS17210	fdxC	2Fe-2S iron-sulfur cluster binding domain-containing protein		
+nif	EQU24_RS17205	fdxD	2Fe-2S iron-sulfur cluster binding domain-containing protein		
+nif	EQU24_RS17200	nifQ	nitrogen fixation protein NifQ		
+nif	EQU24_RS17170	nifE	nitrogenase iron-molybdenum cofactor biosynthesis protein NifE		
+nif	EQU24_RS17165	nifN	nitrogenase iron-molybdenum cofactor biosynthesis protein NifN		
+nif	EQU24_RS17160	nifX	nitrogen fixation protein NifX		
+nif	EQU24_RS17155		NifX-associated nitrogen fixation protein		
+nif	EQU24_RS17150		hypothetical protein		
+nif	EQU24_RS17145	fdxB	"ferredoxin III, nif-specific"		
+nif	EQU24_RS17140	nifW	hypothetical protein		
+nif	EQU24_RS17135	nifZ	nitrogen fixation protein NifZ		
+nif	EQU24_RS17130	nifM	nitrogen fixation protein NifM		
+nif	EQU24_RS17125	clpX	ATP-dependent Clp protease ATP-binding subunit ClpX		
+nif	EQU24_RS17120	grxD	Grx4 family monothiol glutaredoxin		
+nif	EQU24_RS17115	nifF	flavodoxin		
+nif	EQU24_RS17105	cls	cardiolipin synthase		
+nif	EQU24_RS17100		hypothetical protein		
+nif	EQU24_RS17095		hypothetical protein		
+nif	EQU24_RS17090		hypothetical protein		
+nif	EQU24_RS17085	fdxN	4Fe-4S dicluster domain-containing protein		
+nif	EQU24_RS17080	nifT	putative nitrogen fixation protein NifT		
+nif	EQU24_RS17075	nifK	nitrogenase molybdenum-iron protein subunit beta		
+nif	EQU24_RS17070	nifD	nitrogenase molybdenum-iron protein alpha chain		
+nif	EQU24_RS17065	nifH	nitrogenase iron protein		
+smo	EQU24_RS05930	mmoR	sigma-54-dependent Fis family transcriptional regulator		
+smo	EQU24_RS05925	mmoG	chaperonin GroEL		
+smo	EQU24_RS05910	mmoC	2Fe-2S iron-sulfur cluster binding domain-containing protein		
+smo	EQU24_RS05905	mmoD	soluble methane monooxygenase-binding protein MmoD		
+smo	EQU24_RS05900	mmoZ	hypothetical protein		
+smo	EQU24_RS05895	mmoB	methane monooxygenase		
+smo	EQU24_RS05890	mmoY	methane monooxygenase		
+smo	EQU24_RS05885	mmoX	methane monooxygenase		
+mxa	EQU24_RS18155	mxaD	SRPBCC family protein		
+mxa	EQU24_RS18145	mxaB	response regulator transcription factor		
+mxa	EQU24_RS18140	moxF	"PQQ-dependent dehydrogenase, methanol/ethanol family"		
+mxa	EQU24_RS18135	moxJ	methanol oxidation system protein MoxJ		
+mxa	EQU24_RS18130	moxG	"cytochrome c(L), periplasmic"		
+mxa	EQU24_RS18125	moxI	methanol dehydrogenase		
+mxa	EQU24_RS18120	moxR	MoxR family ATPase		
+mxa	EQU24_RS18115	mxaP	hypothetical protein		
+mxa	EQU24_RS18110	mxaS	MxaS protein		
+mxa	EQU24_RS18105	mxaA	hypothetical protein		
+mxa	EQU24_RS18100	mxaC	VWA domain-containing protein		
+mxa	EQU24_RS18095	mxaK	MxaK protein		
+mxa	EQU24_RS18090	mxaL	VWA domain-containing protein		
+cu_repressible	EQU24_RS19505		hypothetical protein	Cluster 8 and 18 genes from Alexey's thesis	
+cu_repressible	EQU24_RS19500		hypothetical protein	Cluster 8 and 18 genes from Alexey's thesis	
+cu_repressible	EQU24_RS19485		hypothetical protein	Cluster 8 and 18 genes from Alexey's thesis	
+cu_repressible	EQU24_RS19475		hypothetical protein	Cluster 8 and 18 genes from Alexey's thesis	
+cu_repressible	EQU24_RS19470		S8 family serine peptidase	Cluster 8 and 18 genes from Alexey's thesis	
+cu_repressible	EQU24_RS19465		type II secretion system protein	Cluster 8 and 18 genes from Alexey's thesis	
+cu_repressible	EQU24_RS19460		hypothetical protein	Cluster 8 and 18 genes from Alexey's thesis	
+cu_repressible	EQU24_RS19455		MoxR family ATPase	Cluster 8 and 18 genes from Alexey's thesis	
+cu_repressible	EQU24_RS19450		DUF58 domain-containing protein	Cluster 8 and 18 genes from Alexey's thesis	
+cu_repressible	EQU24_RS19445		DUF3488 domain-containing protein	Cluster 8 and 18 genes from Alexey's thesis	
+cu_repressible	EQU24_RS19520		type II secretion system protein	"Doc ""from Cassie"" from Joseph, repressible"	
+cu_repressible	EQU24_RS19495		hypothetical protein	"Doc ""from Cassie"" from Joseph, repressible"	
+cu_repressible	EQU24_RS15800		TonB-dependent receptor	"Doc ""from Cassie"" from Joseph, repressible"	
+cu_repressible	EQU24_RS01900		RNA polymerase sigma factor	"Doc ""from Cassie"" from Joseph, repressible"	
+cu_repressible	EQU24_RS21005		hypothetical protein	"Doc ""from Cassie"" from Joseph, repressible"	
+cu_repressible	EQU24_RS02325		hypothetical protein	"Doc ""from Cassie"" from Joseph, repressible"	
+cu_repressible	EQU24_RS00675		c-type cytochrome	"Doc ""from Cassie"" from Joseph, repressible"	
+cu_repressible	EQU24_RS21000		hypothetical protein	Cu Expression analysis doc from Joseph	
+cu_repressible	EQU24_RS00670		hypothetical protein	Cu Expression analysis doc from Joseph	
+cu_repressible	EQU24_RS05870		hypothetical protein	Cu Expression analysis doc from Joseph	
+cu_repressible	EQU24_RS10665		chemotaxis protein	Cu Expression analysis doc from Joseph	
+cu_repressible	EQU24_RS19515		hypothetical protein	Cu Expression analysis doc from Joseph	
+cu_repressible	EQU24_RS19510		DUF2939 domain-containing protein	Cu Expression analysis doc from Joseph	
+cu_repressible	EQU24_RS05915		BLUF domain-containing protein	Cu Expression analysis doc from Joseph	
+cu_repressible	EQU24_RS05920		hypothetical protein	Cu Expression analysis doc from Joseph	
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					

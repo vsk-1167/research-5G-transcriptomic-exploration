@@ -1,0 +1,7 @@
+﻿Gene,Function,Diagnostic for
+EQU24_RS14140,bacteriohemerythrin,O2-limitation
+EQU24_RS17070,nifD; nitrogenase structural gene,N-limitation when also O2-limited
+MBURv2_160514,heme synthesis,Fe-limitation
+EQU24_RS01660,Mo transport (putative),Mo-limitation
+EQU24_RS07680,CorA copper uptake,Cu-limitation
+EQU24_RS01475,Mo-Formate DH subunit B,W-limitation

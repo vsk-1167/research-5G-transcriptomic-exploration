@@ -1,0 +1,55 @@
+,Copper,,,,,,
+,mage_locus,mage_gene,ncbi_locus,ncbi_gene,ncbi_product,regulation,notes
+,MBURv2_210004,,EQU24_RS19505,,hypothetical protein,repressible,Cluster 8 and 18 genes from Alexey's thesis
+ ,MBURv2_210005,,EQU24_RS19500,,hypothetical protein,repressible,Cluster 8 and 18 genes from Alexey's thesis
+,MBURv2_210008,,EQU24_RS19485,,hypothetical protein,repressible,Cluster 8 and 18 genes from Alexey's thesis
+,MBURv2_210010,,EQU24_RS19475,,hypothetical protein,repressible,Cluster 8 and 18 genes from Alexey's thesis
+,MBURv2_210011,,EQU24_RS19470,,S8 family serine peptidase,repressible,Cluster 8 and 18 genes from Alexey's thesis
+,MBURv2_210012,,EQU24_RS19465,,type II secretion system protein,repressible,Cluster 8 and 18 genes from Alexey's thesis
+,MBURv2_210013,,EQU24_RS19460,,hypothetical protein,repressible,Cluster 8 and 18 genes from Alexey's thesis
+,MBURv2_210014,,EQU24_RS19455,,MoxR family ATPase,repressible,Cluster 8 and 18 genes from Alexey's thesis
+,MBURv2_210015,,EQU24_RS19450,,DUF58 domain-containing protein,repressible,Cluster 8 and 18 genes from Alexey's thesis
+,MBURv2_210016,,EQU24_RS19445,,DUF3488 domain-containing protein,repressible,Cluster 8 and 18 genes from Alexey's thesis
+,MBURv2_200002,,EQU24_RS19520,,type II secretion system protein,repressible,"Doc ""from Cassie"" from Joseph, repressible"
+,MBURv2_210006,,EQU24_RS19495,,hypothetical protein,repressible,"Doc ""from Cassie"" from Joseph, repressible"
+,MBURv2_250053,,EQU24_RS15800,,TonB-dependent receptor,repressible,"Doc ""from Cassie"" from Joseph, repressible"
+,MBURv2_130844,,EQU24_RS01900,,RNA polymerase sigma factor,repressible,"Doc ""from Cassie"" from Joseph, repressible"
+,MBURv2_160425,,EQU24_RS21005,,hypothetical protein,repressible,"Doc ""from Cassie"" from Joseph, repressible"
+,MBURv2_130758,,EQU24_RS02325,,hypothetical protein,repressible,"Doc ""from Cassie"" from Joseph, repressible"
+,MBURv2_160072,,EQU24_RS00675,,c-type cytochrome,repressible,"Doc ""from Cassie"" from Joseph, repressible"
+,MBURv2_130715,,EQU24_RS02555,,hypothetical protein,inducible,"Doc ""from Cassie"" from Joseph, inducible"
+,MBURv2_130858,,not found,,,,"Doc ""from Cassie"" from Joseph, inducible"
+,MBURv2_130857,,EQU24_RS01840,,5'-deoxynucleotidase,unclear,"Near gene MBURv2_130858 in doc ""from Cassie"" from Joseph, inducible"
+,MBURv2_130859,mscL,EQU24_RS01835,mscL,large-conductance mechanosensitive channel protein MscL,unclear,"Near gene MBURv2_130858 in doc ""from Cassie"" from Joseph, inducible"
+,MBURv2_210075,,EQU24_RS19170,,porin,inducible,"Doc ""from Cassie"" from Joseph, inducible"
+,MBURv2_130051,mmoX,EQU24_RS05885,,methane monooxygenase,repressible,Cu Expression analysis doc from Joseph
+,MBURv2_200002,,EQU24_RS19520,,type II secretion system protein,repressible,Cu Expression analysis doc from Joseph
+,MBURv2_160426,,EQU24_RS21000,,hypothetical protein,repressible,Cu Expression analysis doc from Joseph
+,MBURv2_160425,,EQU24_RS21005,,hypothetical protein,repressible,Cu Expression analysis doc from Joseph
+,MBURv2_160073,,EQU24_RS00670,,hypothetical protein,repressible,Cu Expression analysis doc from Joseph
+,MBURv2_130055,,EQU24_RS05870,,hypothetical protein,repressible,Cu Expression analysis doc from Joseph
+,MBURv2_50246,,EQU24_RS10665,,chemotaxis protein,repressible,Cu Expression analysis doc from Joseph
+,MBURv2_130056,,not found,,,,Cu Expression analysis doc from Joseph
+,MBURv2_130055,,EQU24_RS05870,,hypothetical protein,repressible,Near gene MBURv2_130056 in Cu Expression analysis doc from Joseph
+,MBURv2_130057,glnS,EQU24_RS05865,,glutamine--tRNA ligase/YqeY domain fusion protein,unclear,Near gene MBURv2_130056 in Cu Expression analysis doc from Joseph
+,MBURv2_250053,,EQU24_RS15800,,TonB-dependent receptor,repressible,Cu Expression analysis doc from Joseph
+,MBURv2_210002,,EQU24_RS19515,,hypothetical protein,repressible,Cu Expression analysis doc from Joseph
+,MBURv2_210001,,EQU24_RS04725,,Hsp70 family protein,unclear,Cu Expression analysis doc from Joseph
+,MBURv2_210003,,EQU24_RS19510,,DUF2939 domain-containing protein,repressible,Cu Expression analysis doc from Joseph
+,MBURv2_190133,,EQU24_RS16960,,TonB-dependent receptor,unclear,Cu Expression analysis doc from Joseph
+,MBURv2_130048,mmoZ,EQU24_RS05900,,hypothetical protein,repressible,Cu Expression analysis doc from Joseph
+,MBURv2_130052,,not found,,,,Cu Expression analysis doc from Joseph
+,MBURv2_130053,,EQU24_RS05880,,hypothetical protein,repressible,Near gene MBURv2_130052 in Cu Expression analysis doc from Joseph
+,MBURv2_130049,mmoB,EQU24_RS05895,,methane monooxygenase,repressible,Cu Expression analysis doc from Joseph
+,MBURv2_130050,mmoY,EQU24_RS05890,,methane monooxygenase,repressible,Cu Expression analysis doc from Joseph
+,MBURv2_130046,mmoC,EQU24_RS05910,,2Fe-2S iron-sulfur cluster binding domain-containing protein,repressible,Cu Expression analysis doc from Joseph
+,MBURv2_130047,,EQU24_RS05905,mmoD,soluble methane monooxygenase-binding protein MmoD,repressible,Cu Expression analysis doc from Joseph
+,MBURv2_130045,,EQU24_RS05915,,BLUF domain-containing protein,repressible,Cu Expression analysis doc from Joseph
+,MBURv2_130044,,EQU24_RS05920,,hypothetical protein,repressible,Cu Expression analysis doc from Joseph
+,MBURv2_130043,groL,EQU24_RS05925,,chaperonin GroEL,repressible,Cu Expression analysis doc from Joseph
+,MBURv2_210045,pmoC,EQU24_RS19315,,methane monooxygenase/ammonia monooxygenase subunit C,inducible,known copper induction
+,MBURv2_210046,pmoA,EQU24_RS19310,,methane monooxygenase/ammonia monooxygenase subunit A,inducible,known copper induction
+,MBURv2_210047,pmoB,EQU24_RS19305,,methane monooxygenase/ammonia monooxygenase subunit B,inducible,known copper induction
+,MBURv2_210009,,EQU24_RS19480,,DUF3438 family protein,repressible,noticed expression repsonse to no/low/med copper in parallel coords plot
+,MBURv2_210007,,EQU24_RS19490,,type II secretion system F family protein,repressible,noticed expression repsonse to no/low/med copper in parallel coords plot
+,MBURv2_50249,,EQU24_RS10650,,HEAT repeat domain-containing protein,repressible,noticed expression repsonse to no/low/med copper in parallel coords plot (also high in highO2 and vials)
